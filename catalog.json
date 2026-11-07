@@ -1,0 +1,22 @@
+{
+  "games": [
+    {
+      "id": "drax",
+      "name": "DRAX",
+      "description": "DRAX es un RPG de fantasía medieval en desarrollo.",
+      "version": "0.1.0",
+      "url": "",
+      "sha256": "",
+      "exe": "Drax.exe"
+    }
+  ],
+  "content": {
+    "description": "DRAX es un RPG de fantasía medieval en desarrollo. Elige entre mago, monstruo o guerrero, gana experiencia, consigue objetos y prepárate para las batallas del Coliseo.",
+    "newsTitle": "DRAX — En desarrollo",
+    "newsDescription": "Seguimos trabajando en el mundo de DRAX, las clases, los niveles y el Coliseo. Aún no hay una versión pública disponible.",
+    "newsDate": "7 nov. 2026",
+    "guideUrl": "",
+    "communityUrl": "",
+    "supportUrl": ""
+  }
+}
